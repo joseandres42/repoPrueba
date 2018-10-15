@@ -1,0 +1,3 @@
+mkdir repoPrueba
+cd repoPrueba
+git init .
